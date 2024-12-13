@@ -1,0 +1,7 @@
+1: excel -> html (UTF-8)
+2: txt(s-jis)で開く
+3: UTF-8で保存
+4: index.htmlにコピー
+5: git add .
+6: git commit -m "message"
+7: git push
